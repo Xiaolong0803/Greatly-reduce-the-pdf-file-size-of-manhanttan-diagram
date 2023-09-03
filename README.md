@@ -2,7 +2,7 @@
 
 ## Wang Lab/Hu Lab: Xiaolong Li
 
-College of Grassland Agricultural Science and Technology, Lanzhou University
+#### College of Grassland Agricultural Science and Technology, Lanzhou University
 
 ## Millions of SNP data to draw PDF version of Manhattan map (file size 200k,dpi=300)
 ### First list the advantages of this article:
