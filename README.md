@@ -1,6 +1,6 @@
 # Greatly reduce the pdf file size of manhanttan diagram
 
-## Wang Lab: Xiaolong Li
+## Wang Lab/Hu Lab: Xiaolong Li
 
 College of Grassland Agricultural Science and Technology, Lanzhou University
 
