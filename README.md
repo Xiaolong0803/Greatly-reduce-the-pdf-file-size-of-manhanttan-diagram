@@ -47,8 +47,7 @@ manhattan(gwasResults)
 
 
 ​    
-![png](output_4_0.png)
-​    
+​![Alt Text](plot/output_4_0.png))
 
 
 ### Personal data preparation
