@@ -123,7 +123,7 @@ p_self_plot
 ```
 
 
-​![Alt Text](output_12_0.png)   
+​![Alt Text](plot/output_12_0.png)   
 
 
 
