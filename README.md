@@ -142,7 +142,3 @@ dev.off()
 
 - -rw-r--r-- 1 xiaolong xiaolong 254K Sep  3 22:24 demo.qqman.pdf
 
-
-```R
-
-```
