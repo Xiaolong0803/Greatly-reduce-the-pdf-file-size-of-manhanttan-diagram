@@ -134,8 +134,10 @@ dev.off()
 ```
 
 
-<strong>png:</strong> 2
-
 
 - -rw-r--r-- 1 xiaolong xiaolong 254K Sep  3 22:24 demo.qqman.pdf
+
+
+[中文教程在这里]([http://www.cnblogs.com/sxdcgaq8080/p/7894828.html](https://mp.weixin.qq.com/s/0Byq9doewOIydwGZtagquw)
+
 
