@@ -1,8 +1,10 @@
 # Greatly reduce the pdf file size of manhanttan diagram
-Some tips about R drawing
+
+## Wang Lab: Xiaolong Li
+
+College of Grassland Agricultural Science and Technology, Lanzhou University
 
 ## Millions of SNP data to draw PDF version of Manhattan map (file size 200k,dpi=300)
-
 ### First list the advantages of this article:
 
 - More than 21 million SNPS: the original pdf size is 773M, and the pdf size is 203k after the point layer raster.
