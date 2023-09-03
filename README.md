@@ -1,4 +1,4 @@
-# R_ggplot
+# Greatly reduce the pdf file size of manhanttan diagram
 Some tips about R drawing
 
 ## Millions of SNP data to draw PDF version of Manhattan map (file size 200k,dpi=300)
