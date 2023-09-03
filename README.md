@@ -47,7 +47,7 @@ manhattan(gwasResults)
 
 
 ​    
-​![Alt Text](plot/output_4_0.png))
+​![Alt Text](plot/output_4_0.png)
 
 
 ### Personal data preparation
@@ -123,9 +123,7 @@ p_self_plot
 ```
 
 
-​    
-![png](output_12_0.png)
-​    
+​![Alt Text](output_12_0.png)   
 
 
 
