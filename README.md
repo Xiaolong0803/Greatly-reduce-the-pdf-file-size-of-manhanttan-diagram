@@ -2,7 +2,7 @@
 
 ## Wang Lab/Hu Lab: Xiaolong Li
 
-#### The State Key Laboratory of Grassland Agro-ecosystems,College of Pastoral Agriculture Science and Technology, Lanzhou University,Lanzhou, China
+#### Lanzhou University,Lanzhou, China
 #### Shanghai Ocean University, Shanghai, China
 
 ## Millions of SNP data to draw PDF version of Manhattan map (file size 200k,dpi=300)
